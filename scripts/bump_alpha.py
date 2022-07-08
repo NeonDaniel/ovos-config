@@ -1,4 +1,5 @@
 import fileinput
+import os
 from os.path import join, dirname
 
 
@@ -10,6 +11,7 @@ with open(version_file, "r", encoding="utf-8") as v:
         if line.startswith(version_var_name):
             version = int(line.split("=")[-1])
             new_version = int(version) + 1
+            os.environ["NEW_VERSION"] = str(new_version)
 
 for line in fileinput.input(version_file, inplace=True):
     if line.startswith(version_var_name):
