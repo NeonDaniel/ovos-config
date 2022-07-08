@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Cleanup rebase errors [\#3](https://github.com/NeonDaniel/ovos-config/pull/3) ([NeonDaniel](https://github.com/NeonDaniel))
 - Troubleshooting alpha version action [\#2](https://github.com/NeonDaniel/ovos-config/pull/2) ([NeonDaniel](https://github.com/NeonDaniel))
 
 ## [V](https://github.com/NeonDaniel/ovos-config/tree/V) (2022-07-08)
