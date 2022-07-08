@@ -1,74 +1,52 @@
 # Changelog
 
-## [Unreleased](https://github.com/OpenVoiceOS/ovos-config/tree/HEAD)
+## [Unreleased](https://github.com/NeonDaniel/ovos-config/tree/HEAD)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.3...HEAD)
-
-**Fixed bugs:**
-
-- fix/reload config [\#9](https://github.com/OpenVoiceOS/ovos-config/pull/9) ([NeonJarbas](https://github.com/NeonJarbas))
-
-## [V0.0.3](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.3) (2022-07-06)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.3a1...V0.0.3)
-
-## [V0.0.3a1](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.3a1) (2022-07-06)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.2...V0.0.3a1)
-
-**Fixed bugs:**
-
-- Fix circular imports and refactor submodules [\#8](https://github.com/OpenVoiceOS/ovos-config/pull/8) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [V0.0.2](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.2) (2022-07-05)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.2a4...V0.0.2)
-
-## [V0.0.2a4](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.2a4) (2022-07-05)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.2a3...V0.0.2a4)
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.4a1...HEAD)
 
 **Merged pull requests:**
 
-- migrate full ovos\_utils.configuration module [\#7](https://github.com/OpenVoiceOS/ovos-config/pull/7) ([JarbasAl](https://github.com/JarbasAl))
+- Troubleshooting alpha version action [\#1](https://github.com/NeonDaniel/ovos-config/pull/1) ([NeonDaniel](https://github.com/NeonDaniel))
 
-## [V0.0.2a3](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.2a3) (2022-07-05)
+## [V0.0.4a1](https://github.com/NeonDaniel/ovos-config/tree/V0.0.4a1) (2022-07-07)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.2a2...V0.0.2a3)
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.3...V0.0.4a1)
 
-**Merged pull requests:**
+## [V0.0.3](https://github.com/NeonDaniel/ovos-config/tree/V0.0.3) (2022-07-06)
 
-- Fix config stack loading with unit tests [\#6](https://github.com/OpenVoiceOS/ovos-config/pull/6) ([NeonDaniel](https://github.com/NeonDaniel))
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.3a1...V0.0.3)
 
-## [V0.0.2a2](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.2a2) (2022-07-05)
+## [V0.0.3a1](https://github.com/NeonDaniel/ovos-config/tree/V0.0.3a1) (2022-07-06)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.2a1...V0.0.2a2)
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.2...V0.0.3a1)
 
-**Merged pull requests:**
+## [V0.0.2](https://github.com/NeonDaniel/ovos-config/tree/V0.0.2) (2022-07-05)
 
-- Catch invalid config files and log contents [\#4](https://github.com/OpenVoiceOS/ovos-config/pull/4) ([NeonDaniel](https://github.com/NeonDaniel))
-- Add yaml/json parsing unit tests [\#3](https://github.com/OpenVoiceOS/ovos-config/pull/3) ([NeonDaniel](https://github.com/NeonDaniel))
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.2a4...V0.0.2)
 
-## [V0.0.2a1](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.2a1) (2022-06-29)
+## [V0.0.2a4](https://github.com/NeonDaniel/ovos-config/tree/V0.0.2a4) (2022-07-05)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.1...V0.0.2a1)
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.2a3...V0.0.2a4)
 
-**Merged pull requests:**
+## [V0.0.2a3](https://github.com/NeonDaniel/ovos-config/tree/V0.0.2a3) (2022-07-05)
 
-- Remove generated files and add gitignore [\#5](https://github.com/OpenVoiceOS/ovos-config/pull/5) ([NeonDaniel](https://github.com/NeonDaniel))
-- Fix/publis workflows [\#2](https://github.com/OpenVoiceOS/ovos-config/pull/2) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.2a2...V0.0.2a3)
 
-## [V0.0.1](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.1) (2022-06-25)
+## [V0.0.2a2](https://github.com/NeonDaniel/ovos-config/tree/V0.0.2a2) (2022-07-05)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/V0.0.1a2...V0.0.1)
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.2a1...V0.0.2a2)
 
-## [V0.0.1a2](https://github.com/OpenVoiceOS/ovos-config/tree/V0.0.1a2) (2022-06-25)
+## [V0.0.2a1](https://github.com/NeonDaniel/ovos-config/tree/V0.0.2a1) (2022-06-29)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-config/compare/5578c76398d3fe143716d52f3f1b1a37f729d133...V0.0.1a2)
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.1...V0.0.2a1)
 
-**Merged pull requests:**
+## [V0.0.1](https://github.com/NeonDaniel/ovos-config/tree/V0.0.1) (2022-06-25)
 
-- Create README.md [\#1](https://github.com/OpenVoiceOS/ovos-config/pull/1) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.1a2...V0.0.1)
+
+## [V0.0.1a2](https://github.com/NeonDaniel/ovos-config/tree/V0.0.1a2) (2022-06-25)
+
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/5578c76398d3fe143716d52f3f1b1a37f729d133...V0.0.1a2)
 
 
 
