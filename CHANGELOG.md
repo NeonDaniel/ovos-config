@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/NeonDaniel/ovos-config/tree/HEAD)
 
-[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.4a1...HEAD)
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V...HEAD)
+
+**Merged pull requests:**
+
+- Troubleshooting alpha version action [\#2](https://github.com/NeonDaniel/ovos-config/pull/2) ([NeonDaniel](https://github.com/NeonDaniel))
+
+## [V](https://github.com/NeonDaniel/ovos-config/tree/V) (2022-07-08)
+
+[Full Changelog](https://github.com/NeonDaniel/ovos-config/compare/V0.0.4a1...V)
 
 **Merged pull requests:**
 
